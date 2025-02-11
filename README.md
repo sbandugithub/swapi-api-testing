@@ -7,8 +7,7 @@ This is a simple API testing framework for the Star Wars API for Planets (SWAPI)
 1. Clone the repository
 
 ```
-git clone https://github.com/your-repo/swapi-api-testing.git
-cd swapi-api-testing
+git clone https://github.com/sbandugithub/swapi-api-testing.git
 ```
 2. Install the required dependencies using the following command:
 ```
