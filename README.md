@@ -32,7 +32,7 @@ pytest
 ## Test Cases Overview
 The test cases are written in the tests/test_planets.py file. The test cases validate the response from the API for the following endpoints:
 
-1) test_get_planet_details_by_id - Validate planet details by ID.(This test executed for 02 planets).
+1) test_get_planet_details_by_id - Validate planet details by ID.(This test executes for 02 planets which are parameterized).
 
 2) test_response_time - Ensure API response is under acceptable limits.
 
